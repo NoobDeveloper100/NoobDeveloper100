@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoobDeveloper100
 - 👀 I’m interested in learning new stuff all the time.
-- 🌱 I’m currently learning the steps to be a Information Security Forensic.
+- 🌱 I’m currently learning the steps to be a Back End Developer
 - 💞️ I’m looking to collaborate on any project on which i can easily contribute.
 - 📫 If any one of you is interested in reaching out to me, you can contact me on the Following Social Media Handles
 - Facebook -> https://www.facebook.com/saad.sajid.927543/
